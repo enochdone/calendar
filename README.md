@@ -1,5 +1,10 @@
+# This is test from Praveen
 # Georgetown Calendar Tutorial
+<<<<<<< HEAD
 # Test Master Praveen
+=======
+# This is a test comment Praveen
+>>>>>>> test
 [![Calendar*](docs/img/calendar.jpg)](https://flic.kr/p/9bUbH3)
 
 **Building a simple calendar application in Python**
